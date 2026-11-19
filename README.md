@@ -57,7 +57,7 @@ The notebook was developed on Kaggle (TensorFlow/Keras). It looks for the data f
 
 ## Authors
 
-Rafi Adabhi Sunarya, Ibrahim Zaidan, Aurisa Putri Hawin Yusima, Qaulan Sadiida Putri Sumarna, Yenni Angraini, Windy Pangesti
+Rafi Adabhi Sunarya, Ibrahim Zaidan, Aurisa Putri Hawin Yusima, Qaulan Sadiida Putri Sumarna, Yenni Angraini, Windi Pangesti
 
 Department of Statistics, IPB University, Bogor, Indonesia
 
